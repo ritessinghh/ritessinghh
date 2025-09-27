@@ -11,7 +11,7 @@
 <tr>
 <td align="center">
 <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><br>
-<b>Python</b><br>Data manipulation, analysis & ML
+<b>Python</b><br>Data manipulation, analysis
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/48/sql.png" alt="SQL"/><br>
