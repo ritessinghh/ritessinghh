@@ -72,7 +72,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/riteshhsingh" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a> &nbsp;&nbsp;
 <a href="mailto:ritessingh108@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/></a> &nbsp;&nbsp;
-<a href="https://github.com/riteshhsingh"><img src="https://img.icons8.com/material-rounded/48/github.png" alt="GitHub"/></a>
+<a href="https://github.com/ritessinghh"><img src="https://img.icons8.com/material-rounded/48/github.png" alt="GitHub"/></a>
 </p>
 
 ---
