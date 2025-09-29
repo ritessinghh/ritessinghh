@@ -43,7 +43,7 @@
 
 <h2>💼 Experience</h2>
 <ul>
-<li><strong>Data Analyst @ LegalPay</strong> – Assisted in data cleaning, dashboard creation, and reporting for financial datasets. Gained hands-on experience in SQL and Power BI.</li>
+<li><strong>Mis Executive @ LegalPay</strong> – Assisted in data cleaning, dashboard creation, and reporting for financial datasets. Gained hands-on experience in SQL and Power BI.</li>
 </ul>
 
 ---
